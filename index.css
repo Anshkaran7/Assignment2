@@ -443,13 +443,15 @@ margin-top: 2rem;
 margin-bottom: 2rem;
 }
 #Div1{
-display: none;
+display: block;
 }
 #Div2{
   display: none;
+  margin-top: 2rem;
 }
 #Div3{
   display: none;
+  margin-top: 2rem;
 }
 
 .semester>button::after {
